@@ -1,0 +1,47 @@
+# Blender 4.0.0 MTL File: '04_Overcooked_asset_pack_sketchfab.blend'
+# www.blender.org
+
+newmtl Floor
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd E:/Blender/projects/Game Assets/Overcooked Asset Pack/textures/Floor/Floor_low_Floor_BaseColor.png
+map_Ns E:/Blender/projects/Game Assets/Overcooked Asset Pack/textures/Floor/Floor_low_Floor_Roughness.png
+map_Bump -bm 1.000000 E:/Blender/projects/Game Assets/Overcooked Asset Pack/textures/Floor/Floor_low_Floor_Normal.png
+
+newmtl Kitchen_Cabins
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd E:/Blender/projects/Game Assets/Overcooked Asset Pack/textures/Kitchen Cabins/Overcooked AP_Kitchen_Cabins_BaseColor.png
+map_Ns E:/Blender/projects/Game Assets/Overcooked Asset Pack/textures/Kitchen Cabins/Overcooked AP_Kitchen_Cabins_Roughness.png
+map_refl E:/Blender/projects/Game Assets/Overcooked Asset Pack/textures/Kitchen Cabins/Overcooked AP_Kitchen_Cabins_Metallic.png
+
+newmtl Kitchen_Cabins_Double
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd E:/Blender/projects/Game Assets/Overcooked Asset Pack/textures/Kitchen Cabins Double/Overcooked AP_Kitchen_Cabins_Double_BaseColor.png
+map_Ns E:/Blender/projects/Game Assets/Overcooked Asset Pack/textures/Kitchen Cabins Double/Overcooked AP_Kitchen_Cabins_Double_Roughness.png
+map_refl E:/Blender/projects/Game Assets/Overcooked Asset Pack/textures/Kitchen Cabins Double/Overcooked AP_Kitchen_Cabins_Double_Metallic.png
+map_Ke E:/Blender/projects/Game Assets/Overcooked Asset Pack/textures/Kitchen Cabins Double/Overcooked AP_Kitchen_Cabins_Double_Emissive.png
+map_Bump -bm 1.000000 E:/Blender/projects/Game Assets/Overcooked Asset Pack/textures/Kitchen Cabins Double/Overcooked AP_Kitchen_Cabins_Double_Normal.png
+
+newmtl Kitchen_Utensils
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd E:/Blender/projects/Game Assets/Overcooked Asset Pack/textures/Kitchen Utensils/Overcooked AP_Kitchen_Utensils_BaseColor.png
+map_Ns E:/Blender/projects/Game Assets/Overcooked Asset Pack/textures/Kitchen Utensils/Overcooked AP_Kitchen_Utensils_Roughness.png
+map_refl E:/Blender/projects/Game Assets/Overcooked Asset Pack/textures/Kitchen Utensils/Overcooked AP_Kitchen_Utensils_Metallic.png
